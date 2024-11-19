@@ -1,5 +1,0 @@
-Contenu initial
-<<<<<<< HEAD
-Amélioration du contenu
-=======
->>>>>>> 041cf3cda237342f11454e5b6ac4a8e733a2a286
